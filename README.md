@@ -143,9 +143,9 @@ Developer me = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramsudarshanmaurya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramsudarshanmaurya&theme=radical" width="100%"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramsudarshanmaurya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ramsudarshanmaurya&theme=radical" width="32%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramsudarshanmaurya&theme=radical" width="32%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ramsudarshanmaurya&theme=radical&utcOffset=5.5" width="32%"/>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Ramsudarshanmaurya&theme=tokyonight&hide_border=true)
 
