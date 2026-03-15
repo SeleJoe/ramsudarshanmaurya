@@ -1,7 +1,10 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ramsudarshan%20Maurya&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Embedded%20Systems%20%26%20IoT%20Engineer&descAlignY=55&descSize=20"/>
+# 👋 Hi there! I'm Ramsudarshan Maurya
+### ⚡ Embedded Systems & IoT Engineer
+
+<!-- Typing Animation - Working on GitHub -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=900&lines=⚡+Embedded+Systems+%26+IoT+Engineer;🔧+Bare+Metal+C%2FC%2B%2B+%7C+FreeRTOS+%7C+STM32+%7C+ESP32;📡+MQTT+%7C+BLE+%7C+LoRaWAN+%7C+Modbus+RTU;🏆+RoboRace+1st+Prize+Winner!;📄+Published+Researcher+%7C+IJRPR+2025;🟢+Open+to+Work+—+Let's+Build+Something+Amazing!)](https://git.io/typing-svg)
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=900&lines=⚡+Embedded+Systems+%26+IoT+Engineer;🔧+Bare+Metal+C%2FC%2B%2B+%7C+FreeRTOS+%7C+STM32+%7C+ESP32;📡+MQTT+%7C+BLE+%7C+LoRaWAN+%7C+Modbus+RTU;🏆+RoboRace+1st+Prize+Winner!;📄+Published+Researcher+%7C+IJRPR+2025;🟢+Open+to+Work+—+Let's+Build+Something+Amazing!" alt="Typing SVG" />
